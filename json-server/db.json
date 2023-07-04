@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Mike Potts",
+      "jobTitle": "CEO",
+      "tenure": "5",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tom Connor",
+      "jobTitle": "Developer",
+      "tenure": "2",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Jesse Karl",
+      "jobTitle": "Developer",
+      "tenure": "3",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Kelly Turner",
+      "jobTitle": "QA",
+      "tenure": "8",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Allison Rogers",
+      "jobTitle": "Marketing Specialist",
+      "tenure": "1",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Brian Phillips",
+      "jobTitle": "QA",
+      "tenure": "12",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Matthew Moody",
+      "jobTitle": "Developer",
+      "tenure": "7",
+      "gender": "Male"
+    }
+  ]
+}
